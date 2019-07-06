@@ -9,9 +9,9 @@ const Sysinfo = require("systeminformation");
 const moment = require("moment");
 require("moment-duration-format");
 
-const yt_api_key = process.env.YT_API_KEY;
+const yt_api_key = process.env.AIzaSyDEwYPuBjXDqespqBbJU7j8uEZKTI-WoWw;
 const prefix = process.env.PREFIX;
-const discord_token = process.env.BOT_TOKEN;
+const discord_token = process.env.NTk3MDE0MDI5ODg1NjM2NjM5.XSDGaw.hWo8XfFRwFwOLNOPBgC9Wc014uQ;
 const embed_color = process.env.EMBED_COLOR;
 
 var guilds = {};
